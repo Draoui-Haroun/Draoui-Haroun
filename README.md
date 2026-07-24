@@ -2,10 +2,6 @@
 
 Frontend Developer specializing in React, Next.js, and TypeScript. Passionate about building modern, responsive, and user-friendly web applications.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-success?style=for-the-badge&logo=vercel)](...)
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Draoui%20Haroun-blue?style=for-the-badge&logo=linkedin)](...)
-
 ## 👨‍💻 About Me
 
 - 🎓 Mechanical Engineering Student at USTHB
