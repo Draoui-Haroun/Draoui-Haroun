@@ -77,7 +77,7 @@ A modern e-commerce application with an intuitive shopping experience and respon
 
 ### 🎼 Symphony
 
-React • Next.js • TypeScript
+HTML • CSS • JavaScript
 
 A stylish landing page designed for a luxury fashion brand, focusing on elegant design and a smooth user experience.
 
