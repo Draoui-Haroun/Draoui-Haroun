@@ -57,6 +57,29 @@ A modern personal portfolio website showcasing my projects, technical skills, an
 
 [![Source Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/Draoui-Haroun/portfolio)
 
+### ₿ Crypto Dashboard
+
+Next.js • TypeScript • Tailwind CSS • Recharts
+
+A modern and responsive cryptocurrency dashboard that allows users to explore market data, search and filter cryptocurrencies, view detailed information, manage a personal watchlist, and visualize market trends through interactive charts.
+
+**Features:**
+
+* 📊 Cryptocurrency Market Overview
+* 🔎 Search & Filtering
+* ↕️ Sorting
+* 📈 Interactive Market Charts
+* 🪙 Cryptocurrency Details
+* ⭐ Personal Watchlist
+* 🌓 Dark / Light Mode
+* 🔄 Real-time Data Refresh
+* 📱 Fully Responsive Design
+* ♿ Accessibility Support
+* ⚡ Performance Optimization
+
+**[Live Demo](https://crypto-dashboard-seven-ecru.vercel.app/) • [GitHub](https://github.com/Draoui-Haroun/crypto-dashboard)**
+
+
 ### 🛒 E-Shop
 
 React • Next.js • TypeScript
