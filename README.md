@@ -77,7 +77,9 @@ A modern and responsive cryptocurrency dashboard that allows users to explore ma
 * ♿ Accessibility Support
 * ⚡ Performance Optimization
 
-**[Live Demo](https://crypto-dashboard-seven-ecru.vercel.app/) • [GitHub](https://github.com/Draoui-Haroun/crypto-dashboard)**
+[![Live Demo](https://img.shields.io/badge/Live-Demo-success?style=for-the-badge&logo=vercel)](https://crypto-dashboard-seven-ecru.vercel.app/)
+
+[![Source Code](https://img.shields.io/badge/Source-Code-black?style=for-the-badge&logo=github)](https://github.com/Draoui-Haroun/crypto-dashboard)
 
 
 ### 🛒 E-Shop
